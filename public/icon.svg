@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="128" fill="#0f172a"/>
+  <!-- Baseball glow -->
+  <circle cx="256" cy="256" r="180" fill="#f8fafc" stroke="#dc2626" stroke-width="8"/>
+  <!-- Seams -->
+  <path d="M 140 120 C 180 180, 180 332, 140 392" fill="none" stroke="#dc2626" stroke-width="12" stroke-linecap="round" stroke-dasharray="16 12"/>
+  <path d="M 372 120 C 332 180, 332 332, 372 392" fill="none" stroke="#dc2626" stroke-width="12" stroke-linecap="round" stroke-dasharray="16 12"/>
+  <!-- Center Badge -->
+  <rect x="156" y="216" width="200" height="80" rx="20" fill="#dc2626" stroke="#ffffff" stroke-width="4"/>
+  <text x="256" y="272" font-family="system-ui, sans-serif" font-size="48" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="4">MPB</text>
+</svg>

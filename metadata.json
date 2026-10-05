@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix 野球ペナントシミュレーター",
+  "description": "6球団の全選手・能力を自由に設定し、143試合のペナントレースを戦い抜く本格ブラウザシミュレーションゲーム。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
